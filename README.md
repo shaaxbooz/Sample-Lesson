@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# namunaviy-dars
+# Namunaviy-Dars
 
 ## Project setup
 ```
